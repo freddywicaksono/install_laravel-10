@@ -51,5 +51,6 @@ http://localhost/akademik
 ```
 ![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/69a65987-ffa1-4c74-92f0-1f8a533d9254)
 3. Test the page
-![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/ec1846a7-3fc0-4cae-89cf-fb4095a7d3f8)
+![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/2420c234-64a2-4ae9-9d40-8b4b855e2a98)
+
 
