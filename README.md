@@ -6,7 +6,8 @@
 3. XAMPP
 
 ## 2. Open Terminal with Administrator privileges
-![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/30d5b739-b8fb-4432-932d-1eb1fe5c6b9b)
+![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/1f27952d-9f88-4fa6-9cd1-b57f8017836d)
+
 1. set directory to xampp/htdocs
 2. give command :
 ```
