@@ -39,3 +39,15 @@ $app = require_once __DIR__.'/bootstrap/app.php';
 http://localhost/akademik
 ```
 ![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/eb0157a5-0ca6-4f80-af6f-7da9550697ef)
+
+## Protect all files under root project
+1. Edit file .htaccess on root directory project
+2. add this line of code:
+```
+<Files .env>
+    Order allow,deny
+    Deny from all
+</Files>
+```
+![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/69a65987-ffa1-4c74-92f0-1f8a533d9254)
+
