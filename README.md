@@ -14,3 +14,9 @@
 composer create-project laravel/laravel akademik
 ```
 This will install the last version of laravel into folder: akademik
+
+## 3. Test the Installastion
+```
+http://localhost/akademik/public/
+```
+![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/1c71e8cf-0000-4f70-9e00-c160fd1dd5f5)
