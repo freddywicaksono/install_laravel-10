@@ -50,7 +50,9 @@ http://localhost/akademik
 </Files>
 ```
 ![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/69a65987-ffa1-4c74-92f0-1f8a533d9254)
+
 3. Test the page
+   
 ![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/2420c234-64a2-4ae9-9d40-8b4b855e2a98)
 
 
