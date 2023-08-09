@@ -20,3 +20,22 @@ This will install the last version of laravel into folder: akademik
 http://localhost/akademik/public/
 ```
 ![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/1c71e8cf-0000-4f70-9e00-c160fd1dd5f5)
+
+## 4. Remove public from URL
+1. Move all files in public folder to root directory project
+2. Edit index.php
+change this script:
+```php
+require __DIR__.'/../vendor/autoload.php';
+$app = require_once __DIR__.'/../bootstrap/app.php';
+```
+to:
+```php
+require __DIR__.'/vendor/autoload.php';
+$app = require_once __DIR__.'/bootstrap/app.php';
+```
+3. Test the page
+```
+http://localhost/akademik
+```
+![image](https://github.com/freddywicaksono/install_laravel-10/assets/59552422/eb0157a5-0ca6-4f80-af6f-7da9550697ef)
